@@ -1,0 +1,26 @@
+.menu{
+    height: 50px;
+    background-color: black;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    overflow: hidden;
+}
+body{
+    font-family: Arial;
+    margin: 0;
+}
+.menu a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 17px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.noidung{
+    padding: 16px;
+    margin-top: 30px;
+    height: 1500px;
+}
